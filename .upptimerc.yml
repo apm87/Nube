@@ -5,7 +5,17 @@ repo: Nube # The name of this repositoryy
 sites:
   - name: AFP
     url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome
- 
+  - name: DoctorCabrera
+    url: https://drcabrera.citasturnos.com/DrCabreraWeb/welcome
+  - name: JurisdicciónInmobiliaria
+    url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWebJurisdiccionInmobiliaria/welcome
+  - name: Orbis
+    url: https://orbis.citasturnos.com/OrbisWeb/welcome
+  - name: Servicop
+    url: https://servicoop.citasturnos.com/ServicoopWeb/welcome
+  - name: Universal
+    url: https://universal.citasturnos.com/Universalweb/welcome
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
