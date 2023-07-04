@@ -4,9 +4,10 @@ repo: Nube # The name of this repositoryy
 
 sites:
   - name: AFP
-    url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome
+    url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome    
   - name: DoctorCabrera
     url: https://drcabrera.citasturnos.com/DrCabreraWeb/welcome
+    url: https://drcabrera.citasturnos.com/DrCabrera/login.aspx
   - name: JurisdicciónInmobiliaria
     url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWebJurisdiccionInmobiliaria/welcome
   - name: Orbis
