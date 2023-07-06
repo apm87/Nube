@@ -3,6 +3,32 @@ owner: apm87 # Your GitHub organization or username, where this repository lives
 repo: Nube # The name of this repositoryy
 
 sites:
+  - name: AmcaADM
+    url: https://amca.citasturnos.com/Amca/login.aspx   
+  - name: AmcaWEB
+    url: https://amca.citasturnos.com/AmcaWeb/welcome 
+  - name: CombexADM
+    url: https://combex-im.citasturnos.com/CitasCombex-Im/login.aspx
+  - name: CombexWEB
+    url: https://combex-im.citasturnos.com/CitasWebCOMBEX-IM/welcome
+  - name: OrbisADM
+    url: https://orbis.citasturnos.com/Orbis/login.aspx
+  - name: OrbisWEB
+    url: https://orbis.citasturnos.com/OrbisWeb/welcome
+  - name: UniversalADM
+    url: https://universal.citasturnos.com/Universal/login.aspx
+  - name: UniversalWEB
+    url: https://universal.citasturnos.com/Universalweb
+  - name: CEPMADM
+    url: https://CEPM.citasturnos.com/CEPM/login.aspx
+  - name: CEPMWEB
+    url: https://CEPM.citasturnos.com/CEPMWeb/welcome
+  - name: AcertivaCPADM
+    url: https://asertivacp.citasturnos.com/AsertivaCP/login.aspx
+  - name: AcertivaCPWEB
+    url: https://asertivacp.citasturnos.com/AsertivaCPWeb/welcome
+  - name: AFP
+    url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome    
   - name: AFP
     url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome    
   - name: DoctorCabreraCITASWEB
