@@ -3,6 +3,14 @@ owner: apm87 # Your GitHub organization or username, where this repository lives
 repo: Nube # The name of this repositoryy
 
 sites:
+  - name: RepejuADM
+    url: https://repeju.citasturnos.com/REPEJU/login.aspx
+  - name: RepejuWEB
+    url: https://repeju.citasturnos.com/REPEJUWeb/welcome 
+  - name: DraPaulaSolanoADM
+    url: https://drapaulasolano.citasturnos.com/DraPaulaSolano/login.aspx   
+  - name: DraPaulaSolanoWEB
+    url: https://drapaulasolano.citasturnos.com/DraPaulaSolanoWeb/welcome 
   - name: AmcaADMM
     url: https://amca.citasturnos.com/Amca/login.aspx   
   - name: AmcaWEB
