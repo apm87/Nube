@@ -687,22 +687,22 @@
   },
   {
     "name": "JurisdicciónInmobiliariaWebService",
-    "url": "https://jurisdiccioninmobiliaria.citasturnos.com/CitasWSJurisdiccionInmobiliaria/",
+    "url": "https://jurisdiccioninmobiliaria.citasturnos.com/CitasWSJurisdiccionInmobiliaria/AppointmentWebService.asmx",
     "icon": "https://icons.duckduckgo.com/ip3/jurisdiccioninmobiliaria.citasturnos.com.ico",
     "slug": "jurisdiccion-inmobiliaria-web-service",
-    "status": "down",
-    "uptime": "1.87%",
-    "uptimeDay": "1.87%",
-    "uptimeWeek": "1.87%",
-    "uptimeMonth": "1.87%",
-    "uptimeYear": "1.87%",
-    "time": 54,
-    "timeDay": 54,
-    "timeWeek": 54,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "status": "up",
+    "uptime": "1.06%",
+    "uptimeDay": "1.06%",
+    "uptimeWeek": "1.06%",
+    "uptimeMonth": "1.06%",
+    "uptimeYear": "1.06%",
+    "time": 12603,
+    "timeDay": 12603,
+    "timeWeek": 12603,
+    "timeMonth": 12603,
+    "timeYear": 12603,
     "dailyMinutesDown": {
-      "2023-07-21": 1
+      "2023-07-21": 23
     }
   },
   {
