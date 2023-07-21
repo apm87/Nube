@@ -691,18 +691,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jurisdiccioninmobiliaria.citasturnos.com.ico",
     "slug": "jurisdiccion-inmobiliaria-web-service",
     "status": "down",
-    "uptime": "7.51%",
-    "uptimeDay": "7.51%",
-    "uptimeWeek": "7.51%",
-    "uptimeMonth": "7.51%",
-    "uptimeYear": "7.51%",
+    "uptime": "1.87%",
+    "uptimeDay": "1.87%",
+    "uptimeWeek": "1.87%",
+    "uptimeMonth": "1.87%",
+    "uptimeYear": "1.87%",
     "time": 54,
     "timeDay": 54,
     "timeWeek": 54,
     "timeMonth": 54,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2023-07-21": 0
+      "2023-07-21": 1
     }
   },
   {
