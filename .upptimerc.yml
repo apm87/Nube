@@ -3,55 +3,91 @@ owner: apm87 # Your GitHub organization or username, where this repository lives
 repo: Nube # The name of this repositoryy
 
 sites:
+  - name: utmarthrosADM
+    url: https://utmarthros.citasturnos.com/UTMARTHROS/login.aspx
+  - name: utmarthrosWEB
+    url: https://utmarthros.citasturnos.com/UTMARTHROSWeb/welcome 
+  - name: utmarthrosWEBService
+    url: https://utmarthros.citasturnos.com/UTMARTHROSWebService
+  - name: TelePerformanceADM
+    url: https://teleperformance.citasturnos.com/Teleperformance/login.aspx
+  - name: TelePerformanceWEB
+    url: https://teleperformance.citasturnos.com/TeleperformanceWeb/welcome 
+  - name: TelePerformanceWEBService
+    url: https://teleperformance.citasturnos.com/TeleperformanceWebService
+  - name: MunicipioCasaresADM
+    url: https://municipiocasares.citasturnos.com/CitasOnline/login.aspx
+  - name: MunicipioCasaresWEB
+    url: https://municipiocasares.citasturnos.com/CitasOnlineWeb/welcome 
+  - name: MunicipioCasaresWEBService
+    url: https://municipiocasares.citasturnos.com/CitasOnlineWS
   - name: RepejuADM
     url: https://repeju.citasturnos.com/REPEJU/login.aspx
   - name: RepejuWEB
-    url: https://repeju.citasturnos.com/REPEJUWeb/welcome 
+    url: https://repeju.citasturnos.com/REPEJUWeb/welcome/
+  - name: RepejuWEBService
+    url: https://repeju.citasturnos.com/REPEJUWebService/
   - name: DraPaulaSolanoADM
     url: https://drapaulasolano.citasturnos.com/DraPaulaSolano/login.aspx   
   - name: DraPaulaSolanoWEB
-    url: https://drapaulasolano.citasturnos.com/DraPaulaSolanoWeb/welcome 
-  - name: AmcaADMM
+    url: https://drapaulasolano.citasturnos.com/DraPaulaSolanoWeb/welcome/ 
+  - name: DraPaulaSolanoWEBService
+    url: https://drapaulasolano.citasturnos.com/DraPaulaSolanoWebService
+  - name: AmcaADM
     url: https://amca.citasturnos.com/Amca/login.aspx   
   - name: AmcaWEB
     url: https://amca.citasturnos.com/AmcaWeb/welcome 
+  - name: AmcaWEBService
+    url: https://amca.citasturnos.com/AmcaWebService
   - name: CombexADM
     url: https://combex-im.citasturnos.com/CitasCombex-Im/login.aspx
   - name: CombexWEB
     url: https://combex-im.citasturnos.com/CitasWebCOMBEX-IM/welcome
+  - name: CombexWEBService
+    url: https://combex-im.citasturnos.com/CitasWebServiceCOMBEX-IM/
   - name: OrbisADM
     url: https://orbis.citasturnos.com/Orbis/login.aspx
   - name: OrbisWEB
     url: https://orbis.citasturnos.com/OrbisWeb/welcome
+  - name: OrbisWEBService
+    url: https://orbis.citasturnos.com/OrbisWS/
   - name: UniversalADM
     url: https://universal.citasturnos.com/Universal/login.aspx
   - name: UniversalWEB
-    url: https://universal.citasturnos.com/Universalweb
+    url: https://universal.citasturnos.com/Universalweb/Welcome
+  - name: UniversalWEBService
+    url: https://universal.citasturnos.com/UniversalWebService
   - name: CEPMADM
     url: https://CEPM.citasturnos.com/CEPM/login.aspx
   - name: CEPMWEB
     url: https://CEPM.citasturnos.com/CEPMWeb/welcome
+  - name: CEPMWEBService
+    url: https://CEPM.citasturnos.com/CEPMWebService/
   - name: AcertivaCPADM
     url: https://asertivacp.citasturnos.com/AsertivaCP/login.aspx
   - name: AcertivaCPWEB
     url: https://asertivacp.citasturnos.com/AsertivaCPWeb/welcome
-  - name: AFP
-    url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome    
-  - name: AFP
-    url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome    
-  - name: DoctorCabreraCITASWEB
-    url: https://drcabrera.citasturnos.com/DrCabreraWeb/welcome
-  - name: DoctorCabreraCITASADM 
+  - name: AcertivaCPWEBService
+    url: https://asertivacp.citasturnos.com/AsertivaCPWebService
+  - name: DoctorCabreraADM 
     url: https://drcabrera.citasturnos.com/DrCabrera/login.aspx
-  - name: JurisdicciónInmobiliaria
+  - name: DoctorCabreraWEB
+    url: https://drcabrera.citasturnos.com/DrCabreraWeb/welcome/
+  - name: DoctorCabreraWEBService
+    url: https://drcabrera.citasturnos.com/DrCabreraWebService/
+  - name: JurisdicciónInmobiliariaADM
+    url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasJurisdiccionInmobiliaria/login.aspx
+  - name: JurisdicciónInmobiliariaWeb
     url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWebJurisdiccionInmobiliaria/welcome
-  - name: Orbis
+  - name: JurisdicciónInmobiliariaWebService
+    url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWSJurisdiccionInmobiliaria/
+  - name: OrbisADM
+    url: https://orbis.citasturnos.com/Orbis/login.aspx
+  - name: OrbisWEB
     url: https://orbis.citasturnos.com/OrbisWeb/welcome
-  - name: Servicop
-    url: https://servicoop.citasturnos.com/ServicoopWeb/welcome
-  - name: Universal
-    url: https://universal.citasturnos.com/Universalweb/welcome
-    
+  - name: OrbisWEBService
+    url: https://orbis.citasturnos.com/OrbisWS/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
