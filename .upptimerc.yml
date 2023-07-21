@@ -80,7 +80,7 @@ sites:
   - name: JurisdicciónInmobiliariaWeb
     url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWebJurisdiccionInmobiliaria/welcome
   - name: JurisdicciónInmobiliariaWebService
-    url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWSJurisdiccionInmobiliaria/
+    url: https://jurisdiccioninmobiliaria.citasturnos.com/CitasWSJurisdiccionInmobiliaria/AppointmentWebService.asmx
   - name: OrbisADM
     url: https://orbis.citasturnos.com/Orbis/login.aspx
   - name: OrbisWEB
