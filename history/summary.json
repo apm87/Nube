@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utmarthros.citasturnos.com.ico",
     "slug": "utmarthros-a-dm",
     "status": "up",
-    "uptime": "97.52%",
-    "uptimeDay": "53.79%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "97.52%",
+    "uptime": "97.51%",
+    "uptimeDay": "53.76%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
     "time": 2812,
     "timeDay": 9885,
     "timeWeek": 5415,
     "timeMonth": 2812,
     "timeYear": 2812,
     "dailyMinutesDown": {
-      "2023-08-09": 614,
+      "2023-08-09": 615,
       "2023-08-08": 51
     }
   },
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utmarthros.citasturnos.com.ico",
     "slug": "utmarthros-web-service",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "55.79%",
+    "uptime": "97.66%",
+    "uptimeDay": "55.75%",
     "uptimeWeek": "93.68%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
     "time": 1681,
     "timeDay": 7254,
     "timeWeek": 3665,
     "timeMonth": 1681,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2023-08-09": 587,
+      "2023-08-09": 588,
       "2023-08-08": 49
     }
   },
@@ -158,18 +158,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/teleperformance.citasturnos.com.ico",
     "slug": "tele-performance-web-service",
     "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "64.69%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.14%",
+    "uptime": "98.13%",
+    "uptimeDay": "64.65%",
+    "uptimeWeek": "94.95%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 1055,
     "timeDay": 3506,
     "timeWeek": 1959,
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2023-08-09": 498,
+      "2023-08-09": 499,
       "2023-08-08": 10
     }
   },
@@ -337,7 +337,7 @@
     "slug": "dra-paula-solano-web-service",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "62.50%",
+    "uptimeDay": "62.47%",
     "uptimeWeek": "94.64%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "98.02%",
@@ -417,7 +417,7 @@
     "slug": "combex-adm",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "57.31%",
+    "uptimeDay": "57.28%",
     "uptimeWeek": "93.90%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "98.74%",
@@ -427,7 +427,7 @@
     "timeMonth": 1856,
     "timeYear": 1659,
     "dailyMinutesDown": {
-      "2023-08-09": 610,
+      "2023-08-09": 611,
       "2023-08-08": 4
     }
   },
@@ -456,7 +456,7 @@
     "slug": "combex-web-service",
     "status": "up",
     "uptime": "97.97%",
-    "uptimeDay": "61.60%",
+    "uptimeDay": "61.57%",
     "uptimeWeek": "94.51%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "97.97%",
@@ -555,19 +555,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/universal.citasturnos.com.ico",
     "slug": "universal-web",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 162,
     "timeDay": 1274,
     "timeWeek": 344,
     "timeMonth": 153,
     "timeYear": 162,
-    "dailyMinutesDown": {
-      "2023-08-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UniversalWEBService",
@@ -575,18 +573,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/universal.citasturnos.com.ico",
     "slug": "universal-web-service",
     "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "67.90%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptime": "98.32%",
+    "uptimeDay": "68.18%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 1006,
     "timeDay": 3378,
     "timeWeek": 1853,
     "timeMonth": 1006,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2023-08-09": 447,
+      "2023-08-09": 443,
       "2023-08-08": 16
     }
   },
@@ -616,19 +614,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cepm.citasturnos.com.ico",
     "slug": "cepmweb",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 436,
     "timeWeek": 139,
     "timeMonth": 70,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2023-08-09": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CEPMWEBService",
@@ -636,18 +632,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cepm.citasturnos.com.ico",
     "slug": "cepmweb-service",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.48%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 628,
     "timeDay": 1913,
     "timeWeek": 1049,
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-08-09": 145
+      "2023-08-09": 142
     }
   },
   {
@@ -776,18 +772,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jurisdiccioninmobiliaria.citasturnos.com.ico",
     "slug": "jurisdiccion-inmobiliaria-adm",
     "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "70.37%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.43%",
+    "uptimeDay": "70.33%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
     "time": 3509,
     "timeDay": 11887,
     "timeWeek": 6905,
     "timeMonth": 3509,
     "timeYear": 3509,
     "dailyMinutesDown": {
-      "2023-08-09": 425
+      "2023-08-09": 426
     }
   },
   {
