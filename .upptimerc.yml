@@ -9,6 +9,21 @@ sites:
     url: http://drjuliovargas.solvee.cloud/
   - name: Solvee-Ofit
     url: http://ofit.solvee.cloud/
+  - name: ServicoopADM
+    url: https://servicoop.citasturnos.com/Servicoop/login.aspx
+  - name: ServicoopWEB
+    url: https://servicoop.citasturnos.com/ServicoopWeb/welcome
+  - name: ServicoopWEB
+    url: https://servicoop.citasturnos.com/ServicoopWebservice
+  - name: AFPADM
+    url: https://afp.citasturnos.com/AFP_Reservas/login.aspx    
+  - name: AFPWeb
+    url: https://afp.citasturnos.com/AFP_ReservasWeb/welcome    
+  - name: AFPWebService
+    url: https://afp.citasturnos.com/AFP_ReservasWebService
+
+
+    
   - name: utmarthrosADm
     url: https://utmarthros.citasturnos.com/UTMARTHROS/login.aspx
   - name: utmarthrosWEB
