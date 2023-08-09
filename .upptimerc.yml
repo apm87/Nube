@@ -3,7 +3,7 @@ owner: apm87 # Your GitHub organization or username, where this repository lives
 repo: Nube # The name of this repositoryy
 
 sites:
-  - name: Solvee-ACEInternacional
+  - name: Solvee-ACEInternacionaL
     url: http://aceinternacional.solvee.cloud/
   - name: Solvee-DrJulioVargas
     url: http://drjuliovargas.solvee.cloud/
