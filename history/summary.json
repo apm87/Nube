@@ -22,19 +22,19 @@
     "url": "http://drjuliovargas.solvee.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/drjuliovargas.solvee.cloud.ico",
     "slug": "solvee-dr-julio-vargas",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 649,
-    "timeDay": 4872,
-    "timeWeek": 1727,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 911,
+    "timeDay": 5786,
+    "timeWeek": 2407,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2023-08-20": 17
+      "2023-08-20": 22
     }
   },
   {
