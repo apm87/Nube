@@ -42,19 +42,19 @@
     "url": "http://ofit.solvee.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/ofit.solvee.cloud.ico",
     "slug": "solvee-ofit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1037,
-    "timeDay": 12493,
-    "timeWeek": 3237,
-    "timeMonth": 1037,
-    "timeYear": 1037,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1295,
+    "timeDay": 11165,
+    "timeWeek": 3823,
+    "timeMonth": 1295,
+    "timeYear": 1295,
     "dailyMinutesDown": {
-      "2023-08-20": 0
+      "2023-08-20": 7
     }
   },
   {
