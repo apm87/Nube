@@ -1,7 +1,7 @@
-url: https://servicoop.citasturnos.com/ServicoopWebservice
+url: https://servicoop.citasturnos.com/ServicoopWeb/welcome
 status: up
 code: 200
-responseTime: 107
-lastUpdated: 2023-09-29T23:04:36.792Z
+responseTime: 65
+lastUpdated: 2023-09-30T23:03:57.234Z
 startTime: 2023-08-09T14:23:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
