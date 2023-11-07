@@ -11,7 +11,7 @@ sites:
     url: http://ofit.solvee.cloud/
   - name: ServicoopADM
     url: https://servicoop.citasturnos.com/Servicoop/login.aspx
-  - name: ServicoopWEB
+  - name: ServicoopWEb
     url: https://servicoop.citasturnos.com/ServicoopWeb/welcome
   - name: ServicoopWEB
     url: https://servicoop.citasturnos.com/ServicoopWebservice
